@@ -7,5 +7,8 @@ Cuando programamos, estamos construyendo programas que razonan sobre el mundo qu
 * automatizamos aspectos de la contabilidad de una [PyME](https://es.wikipedia.org/wiki/Peque%C3%B1a_y_mediana_empresa)
 * analizamos las estadísticas el último torneo del [League of Legends](https://es.wikipedia.org/wiki/League_of_Legends) 
 
-Y que pasaría si escribieramos programas que razonaran sobre ¿otros programas? :thought_balloon: Por ejemplo
+Llevemos ahora la idea al extremo:  ¿que sucederá si construyéramos programas que razonaran sobre... **otros programas**? :thought_balloon: 
 
+¡Estaríamos entonces en presencia de software que es capaz de analizar, modificar y generar otros programas! :open_mouth: Suena interesante, ¿verdad?
+
+Y la buena noticia es que no sólo es interesante 
