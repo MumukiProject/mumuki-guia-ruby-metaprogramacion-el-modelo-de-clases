@@ -8,4 +8,5 @@ Pero Ruby no es sólo una sintaxis bonita: se trata de un lenguaje completamente
 > * `ム 290.next`
 > * `ム 5.+(8)`, o simplemente `ム 5 + 8`
 > * `ム "el aleph".upcase`
->
+> * `ム "todos los fuegos el fuego".include? "fuego"`
+
