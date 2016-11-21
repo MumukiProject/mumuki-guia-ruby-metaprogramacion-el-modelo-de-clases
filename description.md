@@ -11,6 +11,6 @@ Llevemos ahora la idea al extremo:  ¿que sucederá si construyéramos programas
 
 ¡Estaríamos entonces en presencia de software que es capaz de analizar, modificar y generar otros programas! :open_mouth: Suena interesante, ¿verdad? La buena noticia es que _metaprogramar_ no sólo es interesante, sino que si empelamos el lenguaje Ruby, esto es posible, útil y facil.  
 
-¡Empecemos entonces por conocer a este particular lenguaje! :strong:
+¡Empecemos entonces por conocer a este particular lenguaje! :muscle: 
 
 
