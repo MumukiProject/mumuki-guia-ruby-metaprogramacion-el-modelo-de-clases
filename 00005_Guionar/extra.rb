@@ -1,1 +1,1 @@
-#[ignoreContentOnQuery]#
+/*...IgnoreContentOnQuery...*/
