@@ -17,6 +17,4 @@ mancuspias = [
 > 
 > * peso promedio
 > * edad máxima
-> * edades de las 3 mancuspias mas pesadas 
-> * cantidad de mancuspias de menos de 3 años 
 
