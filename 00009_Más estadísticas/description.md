@@ -1,6 +1,12 @@
-¡Nos pidieron más estadísticas!
+¡Nos pidieron más estadísticas! 
 
-> Ahora te toca calcular dos estadísticas más: 
+> Recordando que nuestras mancuspias se veían así...
+> 
+> ```ruby
+> mancuspias = [ {edad: 3, peso: 12}, {edad: 4.5, peso: 16}, ...
+>```
+> 
+> ...ahora te toca calcular dos estadísticas más: 
 > 
 > * edades de las 3 mancuspias mas pesadas 
 > * cantidad de mancuspias de menos de 3 años 
