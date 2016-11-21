@@ -20,6 +20,7 @@ altura = false
 > ¿Y que pasará si le enviamos un mensaje al mensaje incorrecto? Probá el siguiente código y averigualo:
 > 
 > ```ruby
-> ム true.capitalize # tené en cuenta que capitalize es un mensaje que entienden los `strings`
+> y = true
+> y.capitalize # tené en cuenta que capitalize es un mensaje que entienden los `strings`
 > ```
 

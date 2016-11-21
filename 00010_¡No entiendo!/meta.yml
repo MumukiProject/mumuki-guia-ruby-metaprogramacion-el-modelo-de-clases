@@ -1,0 +1,18 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- value: El programa funcionará perfectamente
+  checked: false
+- value: El programa fallará en la línea x.reverse, lanzando NoMethodError
+  checked: true
+- value: El programa fallará en la línea x = x.size, lanzando NoMethodError
+  checked: false
+- value: El programa no se ejecutará, porque los tipos son incorrecto
+  checked: false
