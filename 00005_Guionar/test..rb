@@ -1,7 +1,7 @@
 describe do 
   it 'hola mundo' do
     string_misterioso = 'hola mundo'
-    #...content...
+    #...solution...
     expect(resultado).to eq 'hola-mundo'
   end
   
