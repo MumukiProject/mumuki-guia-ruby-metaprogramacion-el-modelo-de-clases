@@ -3,7 +3,7 @@ Como acabamos de ver, la sintaxis de envío de mensajes es bastante simple:
 * `objeto.mensaje(argumentos)` o simplemente `objeto.mensaje argumentos`, dado que los paréntesis suelen ser opcionales
 * `objetos mensajes argumentos` cuando el mensaje es un operador como el `+` o el `*`
  
-Y por si esto fuera poco, los objetos de Ruby vienen con _pilas incluidas_ :battery:: entienden muuuuuchos mensajes.
+Y por si esto fuera poco, los objetos de Ruby vienen con _pilas incluidas_ :battery:: permiten hacer muuuuuchas cosas.
 
 > Investigá qué hacen los siguientes mensajes de los strings.
 >
