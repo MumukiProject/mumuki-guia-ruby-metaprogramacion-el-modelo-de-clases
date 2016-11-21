@@ -7,4 +7,6 @@ Queremos convertir un string en su versión _guionada_, es decir, otro en minús
 * `'hola   mundo'` ➡ `'hola-mundo'`
 * `'HOla todo El   mundO '` ➡ `'hola-todo-el-mundo-mundo'`
 
-> Completá el código a continuación para convertir el _string_misterioso_ en su versión guionada. Por ejemplo: 
+> Completá el código a continuación para convertir el _string_misterioso_ en su versión guionada. 
+> 
+> Recordá que los strings de Ruby entienden muchos mensajes, que podés consultar en [su documentación](https://ruby-doc.org/core-2.2.0/String.html). 
