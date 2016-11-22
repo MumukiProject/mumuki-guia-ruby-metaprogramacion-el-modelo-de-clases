@@ -10,14 +10,14 @@ int altura = 120
 altura = 120
 ```
 
-Y no sólo no indicamos su tipo, sino que ni siquiera tienen un tipo asociado, por lo que si asignamos un objeto de un tipo incorrecto, no tendremos ningún error :sweat:: 
+Y no sólo no indicamos su tipo, sino que ni siquiera tienen un tipo asociado. Esto es muy flexible,  pero como contrapartida, si asignamos un objeto de un tipo incorrecto, no tendremos ningún error :sweat:: 
 
 ```ruby
 altura = 45
-altura = false
+altura = false # esta línea no falla!
 ```
 
-> ¿Y que pasará si le enviamos un mensaje al mensaje incorrecto? Probá el siguiente código y averigualo:
+> ¿Y que pasará si le enviamos un mensaje al objeto incorrecto? Probá el siguiente código y averigualo:
 > 
 > ```ruby
 > y = true
