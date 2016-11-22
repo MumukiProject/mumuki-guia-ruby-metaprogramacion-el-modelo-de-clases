@@ -10,7 +10,7 @@ Y por si esto fuera poco, los objetos de Ruby vienen con _pilas incluidas_ :batt
 > * `'loco'.gsub('o', 'a')`
 > * `'papel'.size`
 > * `'54'.to_i`
-> * `"foo\nbar\n".lines`
+> * `"foo\nbar\n".lines.length`
 > 
 > Si te sirve de ayuda para entender qué hacen, mirá [su documentación](https://ruby-doc.org/core-2.2.0/String.html)
 > 
