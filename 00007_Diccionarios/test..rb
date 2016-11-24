@@ -1,5 +1,5 @@
 describe do 
-  context 'cuando el último sale de la plataforma 12' do 
+  context 'cuando el ultimo sale de la plataforma 12' do 
     it do 
        anuncios = [
          {ciudad: 'Tandil', empresa: 'Plasmar', plataforma: 12 }, 
@@ -12,7 +12,7 @@ describe do
     end
   end
   
-  context 'cuando el último sale de la plataforma 13' do 
+  context 'cuando el ultimo sale de la plataforma 13' do 
     it do 
        anuncios = [
          {ciudad: 'Tandil', empresa: 'Plasmar', plataforma: 12 }, 
@@ -25,7 +25,7 @@ describe do
     end
   end
   
-  context 'cuando hay uno sólo y el sale de la plataforma 7' do 
+  context 'cuando hay uno solo y el sale de la plataforma 7' do 
     it do 
        anuncios = [
          {ciudad: 'Tandil', empresa: 'Plasmar', plataforma: 7 }, 
