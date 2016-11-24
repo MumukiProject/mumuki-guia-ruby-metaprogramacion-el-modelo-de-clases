@@ -15,7 +15,7 @@ Esto le da al lenguaje (¡y a nosotros!) gran flexibilidad: si algo falta o est�
 > Veamos si se entiende: agregá a la clase `String` dos métodos:
 > 
 > * `shout?`: nos dice si termina en signo de admiración (`!`) 
-> * `shout`: agrega al final un signo de admiración, si no termina con éste. 
+> * `shout`: agrega al final un signo de admiración, salvo que ya termine con éste. 
 > 
 > ```ruby
 > ム 'twist!'.shout?
