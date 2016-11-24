@@ -1,5 +1,3 @@
-¿Y que hay de la herencia? ¿Y de los _getters_ / _accesors_? ¿Y Candela?  
-
 Veamos más detalles sobre las clases:
 
 ```ruby

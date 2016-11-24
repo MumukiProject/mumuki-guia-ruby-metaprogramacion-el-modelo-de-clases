@@ -1,0 +1,1 @@
+¿Y que hay de la herencia? ¿Y de los getters / accesors? ¿Y Candela?
