@@ -14,6 +14,6 @@ describe 'Cuentas' do
   end
   
   it("si la cuenta tiene $0, y se pide debitar 300, NO falla") do 
-    cuenta.debitar! 3000
+    cuenta.debitar! 300
   end
 end
