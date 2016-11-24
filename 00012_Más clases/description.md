@@ -1,4 +1,4 @@
-Veamos más detalles sobre las clases:
+Veamos más detalles sobre las clases (omitimos el constructor por brevedad):
 
 ```ruby
 class Cuenta
