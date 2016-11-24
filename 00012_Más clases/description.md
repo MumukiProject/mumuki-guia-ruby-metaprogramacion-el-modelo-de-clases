@@ -15,6 +15,8 @@ class Cuenta
   end
   
   def debitar!(monto) 
+    # para enviar un mensaje a si mismo, simplemente 
+    # lo hacemos sin poner un objeto receptor
     validar_fondos! monto
     @saldo -= monto
   end
@@ -29,7 +31,14 @@ end
 # < se utiliza para indicar herencia
 class CuentaConDescubierto < Cuenta
   def validar_fondos!(monto)
+    # etc...
   end
 end
 ```
+
+> Veamos si se entiende: terminá de implementar la clase `CuentaConDescubierto` de forma que:
+> 
+> * entienda el mensaje `suficiente_descubierto?`, que tome un monto y devuelva si la diferencia entre éste y el saldo actual es menor a $2000
+> * cuando valide fondos, lance una excepción `"descubierto excedido"` si no hay `suficiente_descubierto?`
+> 
 
