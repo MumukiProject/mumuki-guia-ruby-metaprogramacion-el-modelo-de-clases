@@ -1,6 +1,12 @@
 class Cuenta
-  attr_accesor :activa
+  attr_accessor :activa
   attr_reader :nombre, :saldo, :preferencias
+  
+  def initialize(nombre, preferencias, saldo=0) 
+    @preferencias = preferencias
+    @nombre = nombre
+    @saldo = saldo
+  end
   
   def fusionar!(otra_cuenta)
     @saldo += otra_cuenta.saldo

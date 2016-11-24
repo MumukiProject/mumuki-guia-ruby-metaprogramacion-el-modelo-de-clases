@@ -2,7 +2,7 @@ Veamos más detalles sobre las clases (omitimos el constructor por brevedad):
 
 ```ruby
 class Cuenta
-  attr_accesor :activa
+  attr_accessor :activa
   attr_reader :nombre, :saldo, :preferencias
   
   # los métodos pueden tomar parámetros
