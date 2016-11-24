@@ -4,7 +4,7 @@ describe 'salero' do
   it("si el salero tiene 290g, esta lleno") { expect(Salero.new(290).lleno?).to be true  } 
   it("si el salero tiene 270g, esta lleno") { expect(Salero.new(270).lleno?).to be true  } 
   
-  it "si el salero tiene 50g, y se derrama, queda vacío" do 
+  it "si el salero tiene 50g, y se derrama, queda vacio" do 
     salero = Salero.new(50)
     salero.derramar!
     expect(salero.vacio?).to be true
