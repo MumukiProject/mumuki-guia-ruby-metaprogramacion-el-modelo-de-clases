@@ -4,8 +4,10 @@ Los arrays entienden mensajes aún más interesantes, que provienen del paradigm
 ム [20, 4, 5, 10].map { |it| it * 2}
 => [40, 8, 10, 20] # devuelve el resultado de aplicar
                    # una transformación a cada elemento
+                   
 ム [20, 4, 5, 10].select { |it| it > 5  }
 => [20, 10] # filtra los elementos según una condición
+
 ム [20, 4, 5, 10].inject(0) { |accum, it| accum + it }
 => 39 # reduce una lista utilizando una operación binaria
 ```
