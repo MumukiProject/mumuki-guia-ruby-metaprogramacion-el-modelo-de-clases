@@ -29,8 +29,7 @@ describe do
     it do 
        anuncios = [
          {ciudad: 'Tandil', empresa: 'Plasmar', plataforma: 7 }, 
-         {ciudad: 'Buenos Aires', empresa: 'El lento', plataforma: 13 }, 
-         {ciudad: 'Tandil', empresa: 'Johnny Tur', plataforma: 13 },
+         {ciudad: 'Buenos Aires', empresa: 'El lento', plataforma: 13 }
        ]
        /*...content...*/
        expect(plataforma_ultimo_micro_a_tandil).to eq 7
