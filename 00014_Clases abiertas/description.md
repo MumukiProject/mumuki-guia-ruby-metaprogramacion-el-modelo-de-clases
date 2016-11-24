@@ -10,7 +10,7 @@ class Array
 end
 ```
 
-Esto le da al lenguaje (¡y a nosotros!) gran flexibilidad: si algo falta o está mal en una clase, siempre lo podemos corregir nosotros. 
+Esto le da al lenguaje (¡y a nosotros!) gran flexibilidad: si algo falta o está mal en una clase, siempre podemos corregirlo. 
 
 > Veamos si se entiende: agregá a la clase `String` dos métodos
 > 
