@@ -17,4 +17,13 @@ Esto le da al lenguaje (¡y a nosotros!) gran flexibilidad: si algo falta o est�
 > * `shout?`, que nos dice si el string termina en un signo de admiración (`!`) 
 > * `shout`, que agrega al final un signo de admiración si no termina con éste. 
 > 
-> 
+> ```ruby
+> ム 'twist!'.shout?
+> => true
+> ム 'twist!'.shout
+> => 'twist!'
+> ム 'twist'.shout?
+> => false
+> ム 'twist'.shout
+> => 'twist!'
+> ```
