@@ -10,7 +10,7 @@ describe 'Cuentas' do
   end
   
   it("si la cuenta tiene $0, y se pide debitar 3000, falla") do 
-    expect { cuenta.debitar! 3000 }.to raise_exception('suficiente_descubierto?') 
+    expect { cuenta.debitar! 3000 }.to raise_exception('descubierto excedido') 
   end
   
   it("si la cuenta tiene $0, y se pide debitar 300, NO falla") do 
