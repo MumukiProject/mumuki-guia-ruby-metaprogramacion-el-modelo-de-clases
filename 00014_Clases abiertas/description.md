@@ -12,10 +12,10 @@ end
 
 Esto le da al lenguaje (¡y a nosotros!) gran flexibilidad: si algo falta o está mal en una clase, siempre podemos corregirlo. 
 
-> Veamos si se entiende: agregá a la clase `String` dos métodos
+> Veamos si se entiende: agregá a la clase `String` dos métodos:
 > 
-> * `shout?`, que nos dice si el string termina en un signo de admiración (`!`) 
-> * `shout`, que agrega al final un signo de admiración si no termina con éste. 
+> * `shout?`: nos dice si termina en signo de admiración (`!`) 
+> * `shout`: agrega al final un signo de admiración, si no termina con éste. 
 > 
 > ```ruby
 > ム 'twist!'.shout?
