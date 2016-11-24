@@ -1,4 +1,4 @@
-Nos falta contar un pequeño, pequeño detalle, pero que tiene consecuencias muy importantes: las clases en Ruby están **abiertas**. Esto significa que en cualquier momento es posible agregarle o modificarle métodos :scream:.
+¡Ah! Un _pequeño_ detalle: las clases en Ruby están **abiertas**. Esto significa que en cualquier momento es posible agregarle o modificarle métodos :scream:.
 
 Basta con volver a declararla, por ejemplo, para agregarle un método `sum` a la clase `Array`
 
