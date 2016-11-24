@@ -1,5 +1,5 @@
 describe 'Cuentas' do 
-  let(:cuenta) { CuentaConDescubierto.new }
+  let(:cuenta) { CuentaConDescubierto.new('axfgf5', {}) }
   
   it("si la cuenta tiene $0, hay suficiente descubierto para debitar 300") do 
     expect(cuenta.suficiente_descubierto? 300).to be true
