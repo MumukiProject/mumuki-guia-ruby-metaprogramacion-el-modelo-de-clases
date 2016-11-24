@@ -20,7 +20,6 @@ altura = false # esta línea no falla!
 > ¿Y que pasará si le enviamos un mensaje al objeto incorrecto? Probá el siguiente código y averigualo:
 > 
 > ```ruby
-> y = true
-> y.capitalize # tené en cuenta que capitalize es un mensaje que entienden los `strings`
+> true.capitalize # tené en cuenta que capitalize es un mensaje que entienden los `strings`
 > ```
 

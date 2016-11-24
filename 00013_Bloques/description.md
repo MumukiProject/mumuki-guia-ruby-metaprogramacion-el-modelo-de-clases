@@ -12,8 +12,8 @@ Los arrays entienden mensajes aún más interesantes, que provienen del paradigm
 => 39 # reduce una lista utilizando una operación binaria
 ```
 
-Estos se diferencian de los que vimos anteriorment porque toman un _bloque de código_: una
-porción de código de código que puede ser pasada por parámetro y ejecutada más tarde. 
+Estos se diferencian de los que vimos anteriormente porque toman un _bloque de código_: una
+porción de código que puede ser pasada por parámetro y ejecutada más tarde. 
 
 :warning: Los bloques son la única cosa en ruby que **no** es un objeto. 
 

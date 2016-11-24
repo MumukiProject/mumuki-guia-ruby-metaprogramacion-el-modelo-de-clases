@@ -8,7 +8,7 @@ anuncio_partida = {
   plataforma: 12
 }
 
-# y podemos acceder a sus valore por clave, utilizando
+# y podemos acceder a sus valores por clave, utilizando
 # el mensaje []
 anuncio_partida[:ciudad]
 # => 'Azcochinga'

@@ -1,8 +1,7 @@
 ¿Que pasó?
 
 ```ruby
-ム y = true # funciona
-ム y.capitalize # falla
+ム true.capitalize # falla
 NoMethodError: undefined method `capitalize' for true:TrueClass
 ```
 

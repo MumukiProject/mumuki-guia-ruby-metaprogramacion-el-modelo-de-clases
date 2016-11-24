@@ -11,7 +11,7 @@ mancuspias = [
 
 describe do 
   it 'edades_mas_pesadas' do 
-    expect(edades_mas_pesadas).to eq [6, 2, 3]
+    expect(edades_mas_pesadas).to eq [6, 4.5, 2]
   end
   it 'cantidad_menores_de_3' do 
     expect(cantidad_menores_de_3).to eq 3
