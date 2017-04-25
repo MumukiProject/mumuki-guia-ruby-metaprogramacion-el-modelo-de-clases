@@ -7,7 +7,7 @@ mancuspias = [
   {edad: 6, peso: 18}
 ]
 
-/*...content...*/
+#...content...#
 
 describe do 
   it 'edades_mas_pesadas' do 
