@@ -7,7 +7,7 @@ describe do
          {ciudad: 'Azcochinga', empresa: 'Artazar', plataforma: 18 }, 
          {ciudad: 'Tandil', empresa: 'Johnny Tur', plataforma: 12 }
        ]
-       /*...content...*/
+       #...content...#
        expect(plataforma_ultimo_micro_a_tandil).to eq 12
     end
   end
@@ -20,7 +20,7 @@ describe do
          {ciudad: 'Tandil', empresa: 'Johnny Tur', plataforma: 13 },
          {ciudad: 'Azcochinga', empresa: 'Artazar', plataforma: 18 }, 
        ]
-       /*...content...*/
+       #...content...#
        expect(plataforma_ultimo_micro_a_tandil).to eq 13
     end
   end
@@ -31,7 +31,7 @@ describe do
          {ciudad: 'Tandil', empresa: 'Plasmar', plataforma: 7 }, 
          {ciudad: 'Buenos Aires', empresa: 'El lento', plataforma: 13 }
        ]
-       /*...content...*/
+       #...content...#
        expect(plataforma_ultimo_micro_a_tandil).to eq 7
     end
   end
