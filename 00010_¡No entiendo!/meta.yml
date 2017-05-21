@@ -8,15 +8,11 @@ language: text
 teacher_info: ''
 manual_evaluation: false
 choices:
-- !ruby/hash:BSON::Document
-  value: El programa funcionará perfectamente
+- value: El programa funcionará perfectamente
   checked: false
-- !ruby/hash:BSON::Document
-  value: El programa fallará en la línea x.reverse, lanzando NoMethodError
+- value: El programa fallará en la línea x.reverse, lanzando NoMethodError
   checked: true
-- !ruby/hash:BSON::Document
-  value: El programa fallará en la línea x = x.size, lanzando NoMethodError
+- value: El programa fallará en la línea x = x.size, lanzando NoMethodError
   checked: false
-- !ruby/hash:BSON::Document
-  value: El programa no se ejecutará, porque los tipos son incorrecto
+- value: El programa no se ejecutará, porque los tipos son incorrecto
   checked: false
