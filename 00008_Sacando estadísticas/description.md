@@ -1,6 +1,6 @@
 _¡Pongamos en práctica lo que acabamos de aprender sobre arrays y diccionarios!_ 
 
-Tenemos información de pesos y edades de nuestro criadero de [mancuspias](https://es.wikipedia.org/wiki/Mancuspia), representada con un array de diccionarios...
+Tenemos información de pesos y edades de nuestro criadero de [mancuspias](https://biblioteca-virtual.fandom.com/es/wiki/Mancuspia), representada con un array de diccionarios...
 
 ```ruby
 mancuspias = [
